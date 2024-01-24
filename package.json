@@ -1,0 +1,9 @@
+{
+  "name": "js-tokens-maximum-call-stack-size-exceeded-repro",
+  "type": "module",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "js-tokens": "^8.0.2"
+  }
+}
